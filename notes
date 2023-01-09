@@ -1,8 +1,9 @@
   3 flags : system , global , local 
-  git config --local user.name "Noha Salah" 
-  git config --local user.email
+  git config --local user.name "Noha Salah"   
+  git config --local user.email "userEmail"
  
   git config --list
+  git commit -m "adding my project files"
 
 
 
