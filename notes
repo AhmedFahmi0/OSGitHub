@@ -1,0 +1,9 @@
+  3 flags : system , global , local 
+  git config --local user.name "Noha Salah" 
+  git config --local user.email
+ 
+  git config --list
+
+
+
+
